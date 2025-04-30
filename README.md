@@ -1,4 +1,4 @@
-# Self-Hosted Public Drive
+# Self-Hosted Public Driveb 2
 
 A decentralized public files management system that gives you full control over your content through peer-to-peer networks, decentralized ID, and public blockchains.
 
